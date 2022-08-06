@@ -2,7 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-![Screenshot (177)](https://user-images.githubusercontent.com/76725537/183251724-7d08dc88-ed81-481c-8d35-2eb414a05849.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/76725537/183252410-28dcd9ad-7693-425e-8839-edf27b5a4f96.png)
+
 
 
 ## Welcome! 👋
