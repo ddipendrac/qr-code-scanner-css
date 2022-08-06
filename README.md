@@ -2,6 +2,9 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+![Screenshot (177)](https://user-images.githubusercontent.com/76725537/183251724-7d08dc88-ed81-481c-8d35-2eb414a05849.png)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
